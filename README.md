@@ -1,4 +1,5 @@
 #IdTwitterGet
+根据Twitter的snowflake算法生成唯一ID
 
 ##已完成功能
 1. 按Twitter的snowflake代码实现[[Twitter原文件](https://github.com/twitter/snowflake/blob/scala_28/src/test/scala/com/twitter/service/snowflake/IdWorkerSpec.scala)].
