@@ -1,0 +1,2 @@
+# IdTwitterGet
+根据Twitter的snowflake算法生成唯一ID
